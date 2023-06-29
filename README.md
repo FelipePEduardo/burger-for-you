@@ -7,7 +7,7 @@ Projeto feito para estudar mais sobre Vue.js! Este projeto contém as funcionali
 
 ## 📸 Demonstração 
 
-:construction: under development :construction:
+![image](https://github.com/FelipePEduardo/burger-for-you/assets/103855358/fa14146e-86a1-4941-adaf-b4ec188d57d5)
 
 ## 🔧 Stack utilizada
 
