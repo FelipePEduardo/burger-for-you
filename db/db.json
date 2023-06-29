@@ -1,0 +1,118 @@
+{
+  "ingredients": {
+    "breads": [
+      {
+        "id": 1,
+        "type": "Italiano Branco"
+      },
+      {
+        "id": 2,
+        "type": "3 Queijos"
+      },
+      {
+        "id": 3,
+        "type": "Parmesão e Orégano"
+      },
+      {
+        "id": 4,
+        "type": "Integral"
+      }
+    ],
+    "meats": [
+      {
+        "id": 1,
+        "type": "Maminha"
+      },
+      {
+        "id": 2,
+        "type": "Alcatra"
+      },
+      {
+        "id": 3,
+        "type": "Picanha"
+      },
+      {
+        "id": 4,
+        "type": "Veggie burger"
+      }
+    ],
+    "optional": [
+      {
+        "id": 1,
+        "type": "Bacon"
+      },
+      {
+        "id": 2,
+        "type": "Cheddar"
+      },
+      {
+        "id": 3,
+        "type": "Salame"
+      },
+      {
+        "id": 4,
+        "type": "Tomate"
+      },
+      {
+        "id": 4,
+        "type": "Cebola roxa"
+      },
+      {
+        "id": 4,
+        "type": "Pepino"
+      }
+    ]
+  },
+  "status": [
+    {
+      "id": 1,
+      "type": "Solicitado"
+    },
+    {
+      "id": 2,
+      "type": "Em produção"
+    },
+    {
+      "id": 3,
+      "type": "Finalizado"
+    }
+  ],
+  "burgers": [
+    {
+      "name": "Felipe",
+      "meat": "Picanha",
+      "bread": "Integral",
+      "optional": [
+        "Bacon",
+        "Cebola roxa",
+        "Cheddar",
+        "Tomate"
+      ],
+      "status": "Solicitado",
+      "id": 1
+    },
+    {
+      "name": "Felipe",
+      "meat": "Veggie burger",
+      "bread": "Integral",
+      "optional": [
+        "Tomate",
+        "Cheddar",
+        "Cebola roxa"
+      ],
+      "status": "Em produção",
+      "id": 2
+    },
+    {
+      "name": "William",
+      "meat": "Veggie burger",
+      "bread": "3 Queijos",
+      "optional": [
+        "Tomate",
+        "Pepino"
+      ],
+      "status": "Finalizado",
+      "id": 6
+    }
+  ]
+}
