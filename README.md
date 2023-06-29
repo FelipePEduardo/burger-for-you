@@ -1,16 +1,31 @@
-# Burguer For you
+# 🍔 Burguer For you
 
-Projeto feito para estudar mais sobre Vue.js!
+Projeto feito para estudar mais sobre Vue.js! Este projeto contém as funcionalidades de:
+- Cadastro de hambúrguer
+- Atualização do status do pedido
+- Cancelamento do pedido
 
-## Demonstração 
+## 📸 Demonstração 
 
 :construction: under development :construction:
 
-## Stack utilizada
+## 🔧 Stack utilizada
 
-**Front-end:** Vue.js
+**Front-end:** Vue.js,
+**Back-end:** json-server,
 
-## Project Setup
+## 🧪 Aprendizados
+
+Nesse projeto aprendi conceitos como:
+
+- Inicialização de um projeto Vue.js
+- Data Binding
+- Diretivas
+- Métodos
+- Renderização de listas
+- Eventos
+
+## 💻 Project Setup
 
 ```
 npm install
