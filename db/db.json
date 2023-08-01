@@ -80,39 +80,67 @@
   "burgers": [
     {
       "name": "Felipe",
-      "meat": "Picanha",
+      "meat": "Alcatra",
       "bread": "Integral",
       "optional": [
-        "Bacon",
-        "Cebola roxa",
-        "Cheddar",
-        "Tomate"
+        "Tomate",
+        "Cheddar"
       ],
       "status": "Solicitado",
-      "id": 1
+      "id": 15
+    },
+    {
+      "name": "fasfas",
+      "meat": "Maminha",
+      "bread": "3 Queijos",
+      "optional": [
+        "Nenhum opcional"
+      ],
+      "status": "Em produção",
+      "id": 18
+    },
+    {
+      "name": "Enrico",
+      "meat": "Maminha",
+      "bread": "Parmesão e Orégano",
+      "optional": [
+        "Bacon",
+        "Cheddar"
+      ],
+      "status": "Em produção",
+      "id": 19
+    },
+    {
+      "name": "dasfas",
+      "meat": "Picanha",
+      "bread": "Italiano Branco",
+      "optional": [
+        "Bacon",
+        "Salame"
+      ],
+      "status": "Em produção",
+      "id": 21
     },
     {
       "name": "Felipe",
-      "meat": "Veggie burger",
-      "bread": "Integral",
+      "meat": "Alcatra",
+      "bread": "Italiano Branco",
       "optional": [
-        "Tomate",
-        "Cheddar",
-        "Cebola roxa"
+        "Bacon",
+        "Salame"
       ],
-      "status": "Em produção",
-      "id": 2
+      "status": "Solicitado",
+      "id": 22
     },
     {
-      "name": "William",
-      "meat": "Veggie burger",
-      "bread": "3 Queijos",
+      "name": "afs",
+      "meat": "Maminha",
+      "bread": "Italiano Branco",
       "optional": [
-        "Tomate",
-        "Pepino"
+        "Nenhum opcional"
       ],
-      "status": "Finalizado",
-      "id": 6
+      "status": "Solicitado",
+      "id": 23
     }
   ]
 }
